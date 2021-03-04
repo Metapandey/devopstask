@@ -6,8 +6,7 @@
 #### 2. open localhost:8080 on your browser and follow the instruction in screenshots in src folder to complete a task.
 <img align="left" src="src/before-1.png"/>
 
-<img align="left" src="src/1.png"/><br>
-<br>
+<img align="left" padding: "10px" src="src/1.png"/>
 
 <img align="left" src="src/2.png"/><br>
 <br>
