@@ -6,6 +6,12 @@
 #### 2. open localhost:8080 on your browser and follow the instruction in screenshots in src folder to complete a task.
 
 <img align="left" src="src/4.png"/><br />
+# Source help
+https://github.com/jenkinsci/docker
+https://www.jenkins.io/doc/book/installing/
+https://www.jenkins.io/doc/book/installing/docker/
+https://phoenixnap.com
+
 
 
 
