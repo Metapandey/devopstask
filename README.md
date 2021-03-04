@@ -9,10 +9,10 @@
 # Source help
 <p>
 https://github.com/jenkinsci/docker <br/ >
-https://www.jenkins.io/doc/book/installing/
-https://www.jenkins.io/doc/book/installing/docker/
-https://phoenixnap.com
-</P>
+https://www.jenkins.io/doc/book/installing/ <br/ >
+https://www.jenkins.io/doc/book/installing/docker/ <br/ >
+https://phoenixnap.com <br/ >
+</p>
 
 
 
